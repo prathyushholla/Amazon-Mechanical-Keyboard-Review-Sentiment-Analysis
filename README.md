@@ -18,3 +18,6 @@ Key model features:
 - Supports multiple languages, which allows for a broader analysis of global reviews.
   
 model: https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
+
+# Results
+The results section provides an overview of the sentiment distribution for the analyzed reviews, highlighting overall customer satisfaction levels.
